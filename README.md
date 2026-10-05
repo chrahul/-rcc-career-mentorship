@@ -1,4 +1,3 @@
-# -rcc-career-mentorship
 
 # The Technical Career Mentorship Program
 
